@@ -84,3 +84,13 @@ a:hover {
 .content th {
   @apply bg-gray-100;
 }
+
+/*div.bottom {*/
+/*  position: fixed;*/
+/*  bottom: 0;*/
+/*}*/
+
+.max-w-screen-md {
+  padding-right: 5px;
+  padding-left: 5px;
+}
